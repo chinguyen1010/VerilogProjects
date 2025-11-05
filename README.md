@@ -1,1 +1,1 @@
-# VerilogProjects
+# Verilog Projects
